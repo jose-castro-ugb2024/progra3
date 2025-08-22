@@ -6,3 +6,4 @@ num1=int(input("Introduce el numero para calcular:  "))
 
 #imprimir el resultado
 print(f"El cuadrado de {num1} es {cuadrado_numero(num1)}")
+
