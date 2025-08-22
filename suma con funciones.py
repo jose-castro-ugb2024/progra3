@@ -1,4 +1,5 @@
 def suma_numero(num1, num2):
+    #suma dos numeros y devuelve el resultado
     return num1 + num2
 
 #pedir la variable
