@@ -4,7 +4,7 @@ def calcular_promedio(lab1, lab2, parcial):
     return nota_final
 
 
-print("=== Calculadora de Promedio ===")
+print("___ Calculadora de Promedio ___")
 lab1 = float(input("Ingresa la nota del Laboratorio 1 (0 - 10): "))
 lab2 = float(input("Ingresa la nota del Laboratorio 2 (0 - 10): "))
 parcial = float(input("Ingresa la nota del Parcial (0 - 10): "))
