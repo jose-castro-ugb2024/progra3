@@ -13,7 +13,7 @@ def calcular_edad(dia, mes, año):
     return edad
 
 #el calculo de la edad con tu dia, mes y año
-print("=== Calculadora de Edad ===")
+print("___ Calculadora de Edad ___")
 dia = int(input("Ingresa tu día de nacimiento: "))
 mes = int(input("Ingresa tu mes de nacimiento (número): "))
 año = int(input("Ingresa tu año de nacimiento: "))
