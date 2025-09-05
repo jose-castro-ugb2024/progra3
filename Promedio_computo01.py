@@ -10,4 +10,4 @@ lab2 = float(input("Ingresa la nota del Laboratorio 2 (0 - 10): "))
 parcial = float(input("Ingresa la nota del Parcial (0 - 10): "))
 
 promedio = calcular_promedio(lab1, lab2, parcial)
-print(f"Tu nota
+print(f"Tu nota")
